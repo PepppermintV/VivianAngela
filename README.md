@@ -22,9 +22,9 @@
 - Student's club representative
 
 # Skills
-- data cleaning, coding, data analysis (tableu, jamovi)
-- scientific report writing
-- 
+- Data cleaning, coding, data analysis, data visualization (tableu, jamovi)
+- Scientific report writing (Overleaf, Mendeley reference manager)
+- Communication, time-management, teamwork skills
 
 ## Contact Information
 > Linked in : Vivian Angela
