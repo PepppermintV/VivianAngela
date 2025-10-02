@@ -1,7 +1,7 @@
 # Vivian Angela
 > An Indonesian Master Student in Tunghai University
 
-## Education
+# Education
 - Goethe Institut Jakarta
   > German Language (2017-2018)
 - Studienkolleg Indonesia
@@ -13,7 +13,7 @@
   
   > Global Master of Business Administration (2025-current)
 
-## Experience
+# Experience
 - Research assistant
 - Lecture assitant
 - Vice director of Psychology Centre
@@ -21,7 +21,7 @@
 - National and International Conference
 - Student's club representative
 
-## Skills
+# Skills
 - data cleaning, coding, data analysis (tableu, jamovi)
 - scientific report writing
 - 
