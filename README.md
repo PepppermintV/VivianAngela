@@ -1,5 +1,6 @@
-# VivianAngela
+# Vivian Angela
 > An Indonesian Master Student in Tunghai University
+
 ## Education
 - Goethe Institut Jakarta
   > German Language (2017-2018)
@@ -11,6 +12,7 @@
   > Chinese Language (2024-2025)
   
   > Global Master of Business Administration (2025-current)
+
 ## Experience
 - Research assistant
 - Lecture assitant
@@ -20,7 +22,9 @@
 - Student's club representative
 
 ## Skills
-- data cleaning, coding data analysis (jamovi)
+- data cleaning, coding, data analysis (tableu, jamovi)
+- scientific report writing
+- 
 
 ## Contact Information
 > Linked in : Vivian Angela
